@@ -13,7 +13,7 @@
   
 ## :books: Tecnologias a Serem utilizadas e motivação
 
-|          :book: Tecnologias           |           :nut_and_bolt: Função           |
+|          :globe_with_meridians: Tecnologias           |           :nut_and_bolt: Função           |
 | :-----------------------------------: | :---------------------------------------: |
 |                 Figma                 |   Prototipação da interface do Sistema    |
 |               React.Js                |  Desenvolvimento da interface do Sistema  |
@@ -24,7 +24,7 @@
 |                Docker                 |       Conteinerização da aplicação        |
 |         Heroku/AWS(A Definir)         |          Deployment da aplicação          |
 
-## Técnica de desenvolvimento prevista:
+## :pencil: Técnica de desenvolvimento prevista:
 - TDD (Test Driven Development).
-## Modelo Previsto:
+## :large_blue_diamond: Modelo Previsto:
 - MVT (Model, View, Template).
